@@ -1,6 +1,6 @@
 # COVID-19_Physical_Distancing_Policy
 
-This is a repository for datasets used in the paper titled 
+This is the repository for datasets used in the paper titled 
 
 **"Physical distancing interventions and incidence of coronavirus disease 2019: natural experiment in 149 countries"**
 
